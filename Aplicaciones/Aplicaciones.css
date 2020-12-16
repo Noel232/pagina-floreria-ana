@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Floreria Ana</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="../AboutPageAssets/styles/aboutPageStyle.css" rel="stylesheet" type="text/css">
+
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/montserrat:n4:default;source-sans-pro:n2:default.js" type="text/javascript"></script>
+</head>
+
+<body>
+<!-- Header content -->
+<header>
+  <div class="profileLogo">
+  </div>
+  <div class="profilePhoto"> 
+    <!-- Profile photo --> 
+    <center><img src="Imagenes/inicio1.jpg" alt="sample"> </div></center>
+  <!-- Identity details -->
+  <section class="profileHeader">
+	  <font face="Balgeris" size="25" <center>
+	   <center><h1>Aplicaciones</h1></center>
+	  </center>
+      </blockquote>
+    </blockquote>
+	<center><p><font face="Courier New" size="7"<h3>Detalles que conquistan</h3></p></center>
+    <hr>
+    <center><p><font face="Source Serif Variable" size="5" Estabecimiento dedicado a la venta de areglos de flores y ramos.</p></center>
+  </section>
+  <!-- Links to Social network accounts -->
+  <aside class="socialNetworkNavBar">
+	  
+    <center><a href="AboutPageAssets/images/imagen 1.jpg"><img src="Imagenes/Imagen 1a_.jpg" alt="sample"></a> </div></center>
+    
+      <!-- Add a Anchor tag with nested img tag here --> 
+      <center><a href="Imagenes/Imagen 2a.jpg"><img src="Imagenes/Imagen 2a.jpg" alt="sample"></a> </div></center>
+      <!-- Add a Anchor tag with nested img tag here --> 
+      <center><a href="Imagenes/Imagen 3a.jpg"><img src="Imagenes/Imagen 3a.jpg" alt="sample"></a> </div></center>
+
+  <center><a href="Imagenes/Imagen 4a.jpg"><img src="Imagenes/Imagen 4a.jpg" alt="sample"></a> </div></center><a 
+
+  </aside>
+</header>
+<!-- content -->
+<section class="mainContent"> 
+  <!-- Contact details -->
+ <center><section class="section1">
+  </aside>
+</section>
+	<a href="https://www.instagram.com/noeltadeo._/?hl=es-la" target="_blank">
+				<img src="Imagenes/Imangen 5a_Mesa de trabajo 1.jpg" width="76" height="58" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<a href="pie-de-pagina.html">
+				<td>
+			<a href="https://www.facebook.com/noeltadeo.espejelsanchez/" target="_blank">
+				
+				<img src="Imagenes/Imagen 7a_Mesa de trabajo 1.jpg" width="76" height="58" border="0" alt=""></a></td>
+		<td colspan="2">
+			<a href="https://twitter.com/home" target="_blank">
+				<img src="Imagenes/Imagen 6a.jpg" width="76" height="58" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<a href="pie-de-pagina.html">
+<footer>
+  <hr>
+  
+</footer>
+</body>
+</html>
